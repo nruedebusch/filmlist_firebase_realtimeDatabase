@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="t">
   import { push } from "firebase/database";
   import { moviesInDB } from "./firebase.js";
   let inputValue = "";

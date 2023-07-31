@@ -7,7 +7,7 @@
   const addToDatabase = () => {
     if (inputValue.trim() !== "") {
       push(moviesInDB, inputValue);
-      console.log(`${inputValue} added to database`);
+      console.log(`${inputValue} added to atabase`);
       movies = [...movies, inputValue];
       inputValue = "";
     }

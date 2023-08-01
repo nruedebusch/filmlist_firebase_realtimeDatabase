@@ -1,6 +1,6 @@
 <script lang="ts">
   import { push } from "firebase/database";
-  import { moviesInDB } from "./irebase.js";
+  import { moviesInDB } from "./firebase.js";
   let inputValue = "";
   let movies: string[] = [];
 

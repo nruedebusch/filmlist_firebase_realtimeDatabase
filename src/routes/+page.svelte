@@ -41,6 +41,7 @@
   </div>
 </body>
 
+<!-- Styling -->
 <style>
   html,
   body {

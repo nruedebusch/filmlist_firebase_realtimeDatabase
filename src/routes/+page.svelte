@@ -20,6 +20,8 @@
   };
 </script>
 
+<!--Main -->
+
 <body>
   <div class="container">
     <h1>Reel Time</h1>
